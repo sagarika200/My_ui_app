@@ -17,7 +17,7 @@ app.register_blueprint(columns_blueprint) # Link the blueprint to the app
 # --- Database Connection Details ---
 DB_CONFIG = {
     'user': 'root',
-    'password': 'Gudu@2005', # Your MySQL password
+    'password': 'Sagarika@2004', # Your MySQL password
     'host': '127.0.0.1',
     'database': 'employees'
 }
